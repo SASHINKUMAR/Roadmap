@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(240, 246, 252);
+    text-align: center;
+}
+
+.work {
+    position: absolute;
+    left: 15px;
+}
+
+h1 {
+    color: #66bfbf;
+}
+
+h2 {
+    color: #66bfbf
+}
+
+h3 {
+    color: #66bfbf
+}
+
+a {
+    color: rgba(4, 0, 255, 0.89);
+}
+
+
+hr {
+    border-color: gray;
+    border-top: 10px;
+    border-style: dotted;
+    width: 20%;
+    border-bottom: 0;
+}
+
+
+.contact {
+    width: 25px;
+}
+
+table {
+    position: relative;
+    margin: auto;
+}
