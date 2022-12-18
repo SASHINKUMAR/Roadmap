@@ -10,6 +10,8 @@ body {
 
 h1 {
     color: #66bfbf;
+    font-family: 'Cedarville Cursive', cursive;
+
 }
 
 h2 {
@@ -41,6 +43,8 @@ hr {
 table {
     position: relative;
     margin: auto;
+}
+.quote {font-family: 'Cedarville Cursive', cursive;
 }
 
 
